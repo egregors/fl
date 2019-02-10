@@ -1,6 +1,8 @@
 fl – find links
 ===============
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/Egregors/fl)](https://goreportcard.com/report/github.com/Egregors/fl)
+
 This is the simple tool to search downloadable links in the HTML document. It may be useful if you need to find all video | image | mp3 file links on the page. 
 
 # Install
